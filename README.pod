@@ -5,7 +5,7 @@ This is Perl module B<Plack::App::GraphEasy>.
 
 =begin html
 
-<a href="http://travis-ci.org/bayashi/Plack-App-GraphEasy"><img src="https://secure.travis-ci.org/bayashi/Plack-App-GraphEasy.png"/></a> <a href="https://coveralls.io/r/bayashi/Plack-App-GraphEasy"><img src="https://coveralls.io/repos/bayashi/Plack-App-GraphEasy/badge.png?branch=master"/></a>
+<a href="http://travis-ci.org/bayashi/Plack-App-GraphEasy"><img src="https://secure.travis-ci.org/bayashi/Plack-App-GraphEasy.png?_t=1452988553"/></a> <a href="https://coveralls.io/r/bayashi/Plack-App-GraphEasy"><img src="https://coveralls.io/repos/bayashi/Plack-App-GraphEasy/badge.png?_t=1452988553&branch=master"/></a>
 
 =end html
 

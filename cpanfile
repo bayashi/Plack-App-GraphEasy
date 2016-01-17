@@ -1,10 +1,17 @@
 requires 'perl', '5.008005';
 requires 'strict';
 requires 'warnings';
-requires 'Carp';
+requires 'Graph::Easy';
+requires 'Graph::Easy::Parser';
+requires 'Plack::Component';
+requires 'Plack::Request';
+requires 'HTTP::Status';
+requires 'Plack::Util::Accessor';
 
 on 'test' => sub {
     requires 'Test::More', '0.88';
+    requires 'Plack::Test';
+    requires 'HTTP::Request::Common';
 };
 
 on 'configure' => sub {
